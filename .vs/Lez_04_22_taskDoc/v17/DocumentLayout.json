@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\CODE\\C#\\Lez_04_22_taskDoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEA9614-FD1D-4EB8-8431-568FCC5336B6}|Lez_04_22_taskDoc\\Lez_04_22_taskDoc.csproj|c:\\users\\utente\\desktop\\code\\c#\\lez_04_22_taskdoc\\lez_04_22_taskdoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEA9614-FD1D-4EB8-8431-568FCC5336B6}|Lez_04_22_taskDoc\\Lez_04_22_taskDoc.csproj|solutionrelative:lez_04_22_taskdoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEA9614-FD1D-4EB8-8431-568FCC5336B6}|Lez_04_22_taskDoc\\Lez_04_22_taskDoc.csproj|c:\\users\\utente\\desktop\\code\\c#\\lez_04_22_taskdoc\\lez_04_22_taskdoc\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEA9614-FD1D-4EB8-8431-568FCC5336B6}|Lez_04_22_taskDoc\\Lez_04_22_taskDoc.csproj|solutionrelative:lez_04_22_taskdoc\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEA9614-FD1D-4EB8-8431-568FCC5336B6}|Lez_04_22_taskDoc\\Lez_04_22_taskDoc.csproj|c:\\users\\utente\\desktop\\code\\c#\\lez_04_22_taskdoc\\lez_04_22_taskdoc\\classes\\cartadidentita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEA9614-FD1D-4EB8-8431-568FCC5336B6}|Lez_04_22_taskDoc\\Lez_04_22_taskDoc.csproj|solutionrelative:lez_04_22_taskdoc\\classes\\cartadidentita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEA9614-FD1D-4EB8-8431-568FCC5336B6}|Lez_04_22_taskDoc\\Lez_04_22_taskDoc.csproj|c:\\users\\utente\\desktop\\code\\c#\\lez_04_22_taskdoc\\lez_04_22_taskdoc\\classes\\codicefiscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEA9614-FD1D-4EB8-8431-568FCC5336B6}|Lez_04_22_taskDoc\\Lez_04_22_taskDoc.csproj|solutionrelative:lez_04_22_taskdoc\\classes\\codicefiscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\Lez_04_22_taskDoc\\Lez_04_22_taskDoc\\Classes\\Persona.cs",
+              "RelativeDocumentMoniker": "Lez_04_22_taskDoc\\Classes\\Persona.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\Lez_04_22_taskDoc\\Lez_04_22_taskDoc\\Classes\\Persona.cs",
+              "RelativeToolTip": "Lez_04_22_taskDoc\\Classes\\Persona.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:24:43.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CodiceFiscale.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\Lez_04_22_taskDoc\\Lez_04_22_taskDoc\\Classes\\CodiceFiscale.cs",
+              "RelativeDocumentMoniker": "Lez_04_22_taskDoc\\Classes\\CodiceFiscale.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\Lez_04_22_taskDoc\\Lez_04_22_taskDoc\\Classes\\CodiceFiscale.cs",
+              "RelativeToolTip": "Lez_04_22_taskDoc\\Classes\\CodiceFiscale.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:24:28.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartaDIdentita.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\Lez_04_22_taskDoc\\Lez_04_22_taskDoc\\Classes\\CartaDIdentita.cs",
+              "RelativeDocumentMoniker": "Lez_04_22_taskDoc\\Classes\\CartaDIdentita.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\Lez_04_22_taskDoc\\Lez_04_22_taskDoc\\Classes\\CartaDIdentita.cs",
+              "RelativeToolTip": "Lez_04_22_taskDoc\\Classes\\CartaDIdentita.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:24:18.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\Lez_04_22_taskDoc\\Lez_04_22_taskDoc\\Program.cs",
+              "RelativeDocumentMoniker": "Lez_04_22_taskDoc\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\Lez_04_22_taskDoc\\Lez_04_22_taskDoc\\Program.cs",
+              "RelativeToolTip": "Lez_04_22_taskDoc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:21:38.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
